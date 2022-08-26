@@ -16,8 +16,5 @@
     "ManufacturingDuration": 5,
     "ProducedIn": [
         "FGBuildGun"
-    ],
-    "UnlockedBy": [
-        "Schematic_1-1"
     ]
 }

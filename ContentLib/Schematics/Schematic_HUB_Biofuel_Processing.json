@@ -28,6 +28,7 @@
         "Recipe_PipelinePump",
         "Recipe_PipeStorageTank",
         "Recipe_Mixer",
-        "Recipe_GeneratorFuel"
+        "Recipe_GeneratorFuel",
+        "Recipe_LiquidBiofuel"
      ]
   }

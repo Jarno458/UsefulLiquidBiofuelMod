@@ -4,8 +4,5 @@
     "ClearBuilders": false,
     "ProducedIn": [
         "Build_Mixer"
-    ],
-    "UnlockedBy": [
-        "Schematic_HUB_Biofuel_Processing"
     ]
 }

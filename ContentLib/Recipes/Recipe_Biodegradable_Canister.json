@@ -16,8 +16,5 @@
     "ManufacturingDuration": 5,
     "ProducedIn": [
         "Build_ConstructorMk1"
-    ],
-    "UnlockedBy": [
-        "Schematic_1-1"
     ]
 }
