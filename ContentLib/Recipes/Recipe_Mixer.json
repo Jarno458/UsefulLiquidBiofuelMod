@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Mixer",
+    "Ingredients": [
+        {
+            "Item": "Desc_Leaves",
+            "Amount": 5
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Mixer",
+            "Amount": 1
+        }
+    ],
+    "ManufacturingDuration": 5,
+    "ProducedIn": [
+        "FGBuildGun"
+    ],
+    "UnlockedBy": [
+        "Schematic_1-1"
+    ]
+}

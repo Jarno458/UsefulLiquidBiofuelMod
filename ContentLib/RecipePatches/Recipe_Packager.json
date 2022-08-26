@@ -1,0 +1,18 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_Packager.Recipe_Packager_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_SteelPlate",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 5
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+//Game/FactoryGame/Recipes/Buildings/Recipe_GeneratorFuel.Recipe_GeneratorFuel_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronPlateReinforced",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 15
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 50
+        },
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 20
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 50
+        }
+    ]
+}

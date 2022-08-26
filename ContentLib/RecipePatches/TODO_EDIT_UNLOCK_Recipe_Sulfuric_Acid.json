@@ -1,0 +1,11 @@
+//Game/FactoryGame/Recipes/OilRefinery/Recipe_SulfuricAcid.Recipe_SulfuricAcid_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "ClearBuilders": false,
+    "ProducedIn": [
+        "Build_Mixer"
+    ],
+    "UnlockedBy": [
+        "Schematic_1-1"
+    ]
+}
