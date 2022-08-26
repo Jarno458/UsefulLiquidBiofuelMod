@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Useful Liquid Biofuel",
+	"Description": "Makes liquid biofuel useful as an early game fuel source",
+	"Category": "Modding",
+	"CreatedBy": "Jarno",
+	"CreatedByURL": "https://github.com/Jarno458",
+	"DocsURL": "https://github.com/Jarno458/UsefulLiquidBiofuelMod",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.3.2"
+		},
+		{
+			"Name": "ContentLib",
+			"Enabled": true,
+			"SemVersion": "^1.0.0"
+		}
+	]
+}
