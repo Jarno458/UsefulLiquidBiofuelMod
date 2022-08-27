@@ -24,7 +24,7 @@
         "Recipe_WaterPump",
         "Recipe_Pipeline",
         "Recipe_PipeSupport",
-        "Recipe_PipelineJunktion_Cross",
+        "Recipe_PipelineJunction_Cross",
         "Recipe_PipelinePump",
         "Recipe_PipeStorageTank",
         "Recipe_Mixer",
