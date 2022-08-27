@@ -3,8 +3,12 @@
     "Name": "Mixer",
     "Ingredients": [
         {
-            "Item": "Desc_Leaves",
+            "Item": "Desc_Rotor",
             "Amount": 5
+        },
+        {
+            "Item": "Desc_CopperSheet",
+            "Amount": 20
         }
     ],
     "Products": [
