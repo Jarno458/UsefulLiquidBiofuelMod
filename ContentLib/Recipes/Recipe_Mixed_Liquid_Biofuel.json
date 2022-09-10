@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Liquid Biofuel",
+    "Ingredients": [
+        {
+            "Item": "Desc_Biofuel",
+            "Amount": 6
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 3000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidBiofuel",
+            "Amount": 4000
+        }
+    ],
+    "ManufacturingDuration": 4,
+    "ProducedIn": [
+        "Build_Mixer"
+    ]
+}

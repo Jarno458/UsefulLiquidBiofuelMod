@@ -5,7 +5,7 @@
     "Time": 300,
     "ClearRecipes": true,
     "Recipes": [ 
-        "Recipe_ConveyorBeldMk4",
+        "Recipe_ConveyorBeltMk4",
         "Recipe_ConveyorLiftMk4"
      ]
   }

@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Alternate: Sloppy Alumina",
+    "Ingredients": [
+        {
+            "Item": "Desc_OreBuaxite",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 10000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_AluminaSolution",
+            "Amount": 12000
+        }
+    ],
+    "ManufacturingDuration": 3,
+    "ProducedIn": [
+        "Build_Mixer"
+    ]
+}

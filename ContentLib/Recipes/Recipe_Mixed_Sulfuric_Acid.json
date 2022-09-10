@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Sulfuric Acid",
+    "Ingredients": [
+        {
+            "Item": "Desc_Sulfur",
+            "Amount": 5
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 5000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SulfuricAcid",
+            "Amount": 5000
+        }
+    ],
+    "ManufacturingDuration": 6,
+    "ProducedIn": [
+        "Build_Mixer"
+    ]
+}
