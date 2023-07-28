@@ -1,0 +1,7 @@
+//Game/FactoryGame/Schematics/Research/Sulfur_RS/Research_Sulfur_TurboFuel.Research_Sulfur_TurboFuel_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+    "Recipes": [ 
+        "Recipe_Turbo_Biofuel"
+    ]
+}

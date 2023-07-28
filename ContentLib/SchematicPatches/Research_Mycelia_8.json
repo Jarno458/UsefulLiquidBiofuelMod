@@ -1,0 +1,7 @@
+//Game/FactoryGame/Schematics/Research/Mycelia_RS/Research_Mycelia_8.Research_Mycelia_8_C
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+    "Recipes": [ 
+        "Recipe_Liquid_Gas_Nobelisk"
+    ]
+}
