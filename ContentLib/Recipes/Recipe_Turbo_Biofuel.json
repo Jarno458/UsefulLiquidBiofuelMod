@@ -15,17 +15,17 @@
             "Amount": 3
         },
         {
-            "Item": "Desc_Sulfur",
+            "Item": "Desc_CompactedCoal",
             "Amount": 3
         }
     ],
     "Products": [
         {
-            "Item": "Desc_NobeliskGas",
-            "Amount": 20
+            "Item": "Desc_LiquidTurboFuel",
+            "Amount": 4000
         }
     ],
-    "ManufacturingDuration": 12,
+    "ManufacturingDuration": 8,
     "ProducedIn": [
         "Build_Blender"
     ]

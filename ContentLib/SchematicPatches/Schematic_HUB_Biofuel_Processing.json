@@ -1,0 +1,8 @@
+//UsefulLiquidBiofuel/Schematic_HUB_Biofuel_Processing.Schematic_HUB_Biofuel_Processing_C
+{
+  "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Schematic.json",
+  "VisualKit": "Kit_Biofuel_Processing",
+  "Recipes": [ 
+    "Recipe_Mixed_Liquid_Biofuel"
+  ]
+}

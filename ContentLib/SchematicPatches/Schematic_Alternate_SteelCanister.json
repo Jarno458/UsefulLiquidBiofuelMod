@@ -4,5 +4,5 @@
     "ClearDeps": true,
     "DependsOn": [ 
         "/Game/FactoryGame/Schematics/Progression/Schematic_3-3.Schematic_3-3_C"
-     ]
-  }
+    ]
+}
