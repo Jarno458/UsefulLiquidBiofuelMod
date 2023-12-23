@@ -1,0 +1,28 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Biofuel Nobelisk",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidBiofuel",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Gunpowder",
+            "Amount": 20
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_NobeliskGas",
+            "Amount": 10
+        }
+    ],
+    "ManufacturingDuration": 20,
+    "ProducedIn": [
+        "Build_Blender"
+    ]
+}
